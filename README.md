@@ -161,3 +161,7 @@ Therefore, without including searchTerm in the queryKey array, the useQuery hook
 #### Vite ENV Vars
 
 - .env : must be included in .gitignore
+
+xjt_MxSIU2HJoWW3Sz4En_wUQPvxPPpFkhs7JaPNXXQ
+
+https://api.unsplash.com/search/photos?client_id=xjt_MxSIU2HJoWW3Sz4En_wUQPvxPPpFkhs7JaPNXXQ&query=office
